@@ -1,4 +1,19 @@
 .center-header {
   color: rgb(3, 105, 161);
   text-align: center;
+  font-size: 40px;
+}
+
+.container {
+  color: rgb(56, 189, 248);
+  border: solid rgb(3, 105, 161);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  margin-bottom: 30px;
+}
+
+.container > h3 {
+  color: rgb(3, 105, 161);
 }
